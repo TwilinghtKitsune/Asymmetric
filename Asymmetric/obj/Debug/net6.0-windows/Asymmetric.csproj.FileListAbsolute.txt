@@ -1,0 +1,17 @@
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\bin\Debug\net6.0-windows\Asymmetric.exe
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\bin\Debug\net6.0-windows\Asymmetric.deps.json
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\bin\Debug\net6.0-windows\Asymmetric.runtimeconfig.json
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\bin\Debug\net6.0-windows\Asymmetric.dll
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\bin\Debug\net6.0-windows\Asymmetric.pdb
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\obj\Debug\net6.0-windows\Asymmetric.csproj.AssemblyReference.cache
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\obj\Debug\net6.0-windows\Asymmetric.Form1.resources
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\obj\Debug\net6.0-windows\Asymmetric.csproj.GenerateResource.cache
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\obj\Debug\net6.0-windows\Asymmetric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\obj\Debug\net6.0-windows\Asymmetric.AssemblyInfoInputs.cache
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\obj\Debug\net6.0-windows\Asymmetric.AssemblyInfo.cs
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\obj\Debug\net6.0-windows\Asymmetric.csproj.CoreCompileInputs.cache
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\obj\Debug\net6.0-windows\Asymmetric.dll
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\obj\Debug\net6.0-windows\refint\Asymmetric.dll
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\obj\Debug\net6.0-windows\Asymmetric.pdb
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\obj\Debug\net6.0-windows\Asymmetric.genruntimeconfig.cache
+C:\Users\Katerina\Desktop\All\My works\3 course 2 semester\IB\Asymmetric\Asymmetric\obj\Debug\net6.0-windows\ref\Asymmetric.dll
